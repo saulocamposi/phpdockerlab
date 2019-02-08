@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-docker cp index.php zero:/var/www/html/
+docker cp ./content_volume/index.php zero:/var/www/html/
