@@ -1,1 +1,1 @@
-docker exec -it 73 /bin/bash
+docker exec -it lara_apache /bin/bash
